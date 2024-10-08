@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/'
+baseURL = 'https://malejanadro.github.io/hugo/'
 languageCode = 'en-us'
 title = 'Sitio web de dwes'
 
