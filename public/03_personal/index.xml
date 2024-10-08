@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal :: Sitio web de dwes</title>
+    <link>http://localhost:43953/03_personal/index.html</link>
+    <description>Leguaje Markdown Es un leguaje de metadatos donde con caractreres especiales puedo conseguir etiquetas html para renderizar texto con efecto&#xA;Por ejemplo para conseguir título de nivel 1 o h1&#xA;# título Visualizará&#xA;titulo Texto en negria se especifica con texto negrita&#xA;Mi experiencia Otras experiencias</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 16:57:13 +0200</lastBuildDate>
+    <atom:link href="http://localhost:43953/03_personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mascotas</title>
+      <link>http://localhost:43953/03_personal/mascotas/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:57:13 +0200</pubDate>
+      <guid>http://localhost:43953/03_personal/mascotas/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bici</title>
+      <link>http://localhost:43953/03_personal/bici/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:55:40 +0200</pubDate>
+      <guid>http://localhost:43953/03_personal/bici/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Viajes</title>
+      <link>http://localhost:43953/03_personal/viajes/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:55:31 +0200</pubDate>
+      <guid>http://localhost:43953/03_personal/viajes/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

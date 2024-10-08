@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programación :: Sitio web de dwes</title>
+    <link>http://localhost:43953/04_programacion/index.html</link>
+    <description>PHP Muy importante Si quieres ir a la página de php&#xA;graph LR; If --&gt; Then If --&gt; ElSe Then --&gt; A A --&gt; fin fin --&gt; If Lectura recomendada … Esta es un lectura&#xA;Muy importante&#xA;un poco larga y no quiero que ocupe toda la pantalla&#xA;presiona aquí Get Hugo Get Hugo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:43953/04_programacion/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+baseURL = 'http://localhost/'
+languageCode = 'en-us'
+title = 'Sitio web de dwes'
+
+theme ="relearn"
+
+
+
+enableEmoji=true
+
+[markup]
+  [markup.goldmark]
+     [markup.goldmark.renderer]
+        usafe=true
+     [markup.highlight]
+        lineNumbersInTable = false
+        noClasses = false
+     [markup.goldmark.extensions]
+             strikethrough = true
+             alert = true  # Activa el uso de alertas
+             definitionList = true
+             footnote = true
+             linkify = true
+             table = true
+             taskList = true
+                               typographer = true
+                               subscript = true  # Activa subíndices
+                               superscript = true  # Activa superíndices
+
+
