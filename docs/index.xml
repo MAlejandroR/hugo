@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sitio web de dwes</title>
+    <link>https://malejanadro.github.io/hugo/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 17:06:31 +0200</lastBuildDate>
+    <atom:link href="https://malejanadro.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programación</title>
+      <link>https://malejanadro.github.io/hugo/00_programacion/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 17:04:50 +0200</pubDate>
+      <guid>https://malejanadro.github.io/hugo/00_programacion/index.html</guid>
+      <description>Attachments descarga.png (3 KB) raiz.jpeg (326 KB) PHP Muy importante Si quieres ir a la página de php&#xA;graph LR; If --&gt; Then If --&gt; ElSe Then --&gt; A A --&gt; fin fin --&gt; If Lectura recomendada … Esta es un lectura&#xA;Muy importante&#xA;un poco larga y no quiero que ocupe toda la pantalla</description>
+    </item>
+    <item>
+      <title>Teoria</title>
+      <link>https://malejanadro.github.io/hugo/01_teoria/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 10:52:19 +0200</pubDate>
+      <guid>https://malejanadro.github.io/hugo/01_teoria/index.html</guid>
+      <description>probando 😄 Built with by Relearn and Hugo&#xA;Esto es texto marcado Esto es ==texto marcado==&#xA;echo &#34;Hola mundo&#34;; $a = 20; Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus.&#xA;Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.****</description>
+    </item>
+    <item>
+      <title>Teoria2</title>
+      <link>https://malejanadro.github.io/hugo/02_teoria2/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://malejanadro.github.io/hugo/02_teoria2/index.html</guid>
+      <description>This is a new chapter.&#xA;probando Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus.&#xA;Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis co</description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>https://malejanadro.github.io/hugo/03_personal/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:53:55 +0200</pubDate>
+      <guid>https://malejanadro.github.io/hugo/03_personal/index.html</guid>
+      <description>Leguaje Markdown Es un leguaje de metadatos donde con caractreres especiales puedo conseguir etiquetas html para renderizar texto con efecto&#xA;Por ejemplo para conseguir título de nivel 1 o h1&#xA;# título Visualizará&#xA;titulo Texto en negria se especifica con texto negrita&#xA;Mi experiencia Otras experiencias</description>
+    </item>
+    <item>
+      <title>Markdown1</title>
+      <link>https://malejanadro.github.io/hugo/05_markdown1/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 17:06:31 +0200</pubDate>
+      <guid>https://malejanadro.github.io/hugo/05_markdown1/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Descargas</title>
+      <link>https://malejanadro.github.io/hugo/descargas/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 17:04:50 +0200</pubDate>
+      <guid>https://malejanadro.github.io/hugo/descargas/index.html</guid>
+      <description>Descargas Te puedes descargar los siguientes recursos Info 8.pdf (453 KB) descarga.png (3 KB) raiz.jpeg (326 KB) ahora veo mi</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programación :: Sitio web de dwes</title>
+    <link>https://malejanadro.github.io/hugo/00_programacion/index.html</link>
+    <description>Attachments descarga.png (3 KB) raiz.jpeg (326 KB) PHP Muy importante Si quieres ir a la página de php&#xA;graph LR; If --&gt; Then If --&gt; ElSe Then --&gt; A A --&gt; fin fin --&gt; If Lectura recomendada … Esta es un lectura&#xA;Muy importante&#xA;un poco larga y no quiero que ocupe toda la pantalla</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 17:04:50 +0200</lastBuildDate>
+    <atom:link href="https://malejanadro.github.io/hugo/00_programacion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>datos  </title>
+      <link>https://malejanadro.github.io/hugo/00_programacion/datos/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 17:04:50 +0200</pubDate>
+      <guid>https://malejanadro.github.io/hugo/00_programacion/datos/index.html</guid>
+      <description>datos Para descargar ficheros de este directorios usamos el shortcode resources escribo&#xA;{{`&lt;resources ord=&#34;asc&#34; /&gt;`}} y sale&#xA;Attachments</description>
+    </item>
+  </channel>
+</rss>
